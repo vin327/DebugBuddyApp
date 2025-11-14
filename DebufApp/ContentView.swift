@@ -1,9 +1,4 @@
-//
-//  ContentView.swift
-//  DebugBuddyApp
-//
-//  Created by Michael Saakyan on 07.11.2025.
-//
+
 
 import SwiftUI
 import Combine
